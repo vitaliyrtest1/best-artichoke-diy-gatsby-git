@@ -6,7 +6,7 @@ sections:
     subtitle: Optional hero section subtitle
     content: >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.![](images/brandon-guidelines.png)
+      ligula, cursus id molestie vel.![](images/1.png)
     actions:
       - label: Try Free
         url: /pricing
